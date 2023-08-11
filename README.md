@@ -105,7 +105,7 @@ Use FinalZwiftConnect with files
 * DFRobot_OxygenSensor.cpp
 * DFRobot_OxygenSensor.h
 
-## Running the unit on the [Sensirion MyAmbience app](https://apps.apple.com/us/app/sensirion-myambience/id1529131572) (iOS)
+## Running the unit on the [Sensirion MyAmbience app](https://apps.apple.com/us/app/sensirion-myambience/id1529131572) (iOS) and [Google Play](https://play.google.com/store/apps/details?id=com.sensirion.myam)
 * FinalSensirionScreen
 * DFRobot_OxygenSensor.cpp
 * DFRobot_OxygenSensor.h
